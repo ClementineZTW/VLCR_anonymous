@@ -57,6 +57,12 @@ At this time, training datasets and evaluation datasets are LMDB datasets <br>
 ### Models Weights
 
 We propose trained models of two scales: tiny(./vlcr_model_weight/tiny.pth) and base(./vlcr_model_weight/base.pth).
+
+Tiny model: https://pan.baidu.com/s/14S6yAOYWP6T8waILxVdViw?pwd=xi9n
+Base model: https://pan.baidu.com/s/1b3Z3LYVKZO4z2waS2AfUwQ?pwd=rynw
+
+Please download them and put them in ./vlcr/vlcr_model_weight/ if you want to use them.
+
 The average accuracy in six benchmarks is perspectively 91.1% and 93.6%.
 
 
@@ -79,7 +85,7 @@ VLCR-tiny
 
 ### Test
 
-Please edit path-related and GPU-related settings in the sh files first.
+Please edit path-related and GPU-related settings in the sh files first and make sure you have downloaded tiny.pth and base.pth.
 
 VLCR-base
 ```
