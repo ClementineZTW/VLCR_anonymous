@@ -59,6 +59,7 @@ At this time, training datasets and evaluation datasets are LMDB datasets <br>
 We propose trained models of two scales: tiny(./vlcr_model_weight/tiny.pth) and base(./vlcr_model_weight/base.pth).
 
 Tiny model: https://pan.baidu.com/s/14S6yAOYWP6T8waILxVdViw?pwd=xi9n
+
 Base model: https://pan.baidu.com/s/1b3Z3LYVKZO4z2waS2AfUwQ?pwd=rynw
 
 Please download them and put them in ./vlcr/vlcr_model_weight/ if you want to use them.
